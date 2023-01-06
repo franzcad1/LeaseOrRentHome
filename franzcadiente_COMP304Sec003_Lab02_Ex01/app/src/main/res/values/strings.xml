@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">franzcadiente_COMP304Sec003_Lab02_Ex01</string>
+    <string name="apt">Apartments</string>
+    <string name="condo">Condominium Apartments</string>
+    <string name="townhouse">Town Houses</string>
+    <string name="semidetached">Semi-Detached Homes</string>
+    <string name="detachedhome">Detached Homes</string>
+    <string name="add">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="cash">Cash</string>
+    <string name="credit">Credit Card</string>
+    <string name="debit">Debit Card</string>
+    <string name="payment">Mode of Payment:</string>
+    <string name="purchase">Purchase</string>
+    <string name="apt1">308-350 Lonsdale Rd: $1,279,900</string>
+    <string name="apt2">228-955 Queen St W: $699,000</string>
+    <string name="condo1">205-20 Gladstone Ave: $699,000</string>
+    <string name="condo2">728-60 St. Patrick St: $449,000</string>
+    <string name="detached1">166 Silverthorn Ave: $1,450,000</string>
+    <string name="detached2">82 Annette Street: $1,499,000</string>
+    <string name="semi1">89 Hitching Post Ridge Binbrook: $999,900</string>
+    <string name="semi2">1878 Northlands Dr: $749,000</string>
+    <string name="th1">105-1100 Briar Hill Ave: $750,000 </string>
+    <string name="th2">204-441 Jane St: $850,000</string>
+
+</resources>
